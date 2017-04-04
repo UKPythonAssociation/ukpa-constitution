@@ -1,0 +1,22 @@
+dist: trusty
+before_install:
+  - sudo apt-get update
+  - sudo apt-get install --no-install-recommends texlive-fonts-recommended texlive-latex-extra texlive-fonts-extra texlive-latex-recommended latex-xcolor pgf dvipng chktex rubber
+script:
+  # Based on code by Sarah Mount: https://gist.github.com/snim2/9160862
+  - cd constitution
+  - chktex -W # Print version information.
+  - chktex -q -n 6 -n 36 *.tex 2>/dev/null | tee lint.out
+  # If lint output is non-empty report an error.
+  - test ! -s lint.out
+before_deploy:
+  - rubber -d constitution
+deploy:
+  provider: releases
+  api_key:
+    secure: LydUBS3z4UJWQh+j6/pqGS505AetVggJtyB610L3Wu4rYDRFGNQXQFCZzKeD9L7h9FTfmXBvPWV0klYxl4VLMKkF7IzMUkTzu6O8QeYQ91k/7gK4TyTvYLV79UFqVq9UKEBbVsMnHzOBqA6wVHX8wwr4TXqXIJ//L58JqxGI1Y1TwDqLJjxkYaNIoP9H1tEMeu6pF3m5xXTWueYL2EGMzkbt7eiLwFOFTPDlkTZk+7oksbz5a/FeVkZUDTyrEfk+qBFNxtaDsoP/AuywEHrTiZ4F/e5znpPSddB2aZ2NhB0fIbqCQMbSdCi26HpkKJxDC+sIsnTosMmAtVp5yug1SnVMOCxzKoM09TmD843EeisGPEuc1s/vkmj+QBc3fJtRRgqVZiGW8wJi8nW6rn0gO3ZX3jkR9lTHwS7GlMlU4BuurguQFG594bGOG8cNzglROBbmUPn19WzB0dtfUzwZCexoeFEIoJAMqk2IgPtYkAMOiJP7bir6dnAmiJqaxqGmFU7yKP8ZXrtWxK5tnSlpjZVZDTqRLS3xYmdnku0dzSVDje8mJV6drXNwL0vRFjDUjG1FnqL9IBFlmTKKjm4zn1kBLZz6hoVVrWh/4DfGHpEVH4VqufwQjTCpJceRdYd4I5hHugK8QYeR2Gl4OI4YJWMGXZ0CVyzlOhzCQxre+5g=
+  file: constitution.pdf
+  skip_cleanup: true
+  on:
+    tags: true
+    repo: PyconUK/ukpa-constitution

@@ -1,0 +1,43 @@
+\ProvidesPackage{constitution}
+\usepackage{helvet}
+\usepackage{parskip}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage[a4paper,top=1cm, right=2.0cm, includeheadfoot,totalheight=27.5cm]{geometry}
+\setlength{\footskip}{25pt}
+\usepackage{fancyhdr}
+   \pagestyle{fancy}
+\usepackage{draftwatermark}
+    \SetWatermarkScale{1}
+    \SetWatermarkLightness{0.8}
+\usepackage[export]{adjustbox}
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
+\usepackage{sectsty}
+\usepackage{lastpage}
+\usepackage{todonotes}
+\usepackage[draft=false]{hyperref}
+
+\definecolor{UKPUABlue}{RGB}{3,34,124}
+
+\setcounter{tocdepth}{1}
+
+% Header
+\lhead{}
+\chead{}
+\rhead{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Footer
+\lfoot{\small \textcolor{gray} {v\version}}
+\cfoot{}
+\rfoot{\small \textcolor{gray} {Page \thepage\ of \pageref{LastPage}}}
+
+% Section Styling
+\chapterfont{\color{UKPUABlue}}
+\sectionfont{\color{UKPUABlue}}
+\subsectionfont{\color{UKPUABlue}}
+\subsubsectionfont{\color{UKPUABlue}}
+
+\AtBeginDocument{
+  \addtocontents{toc}{\small}
+}
