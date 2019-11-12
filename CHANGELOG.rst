@@ -5,6 +5,15 @@ All changes to the UKPA constitution will be documented in this file.
 The format is based on `Keep a Changelog <http://keepachangelog.com/>`_
 and this project adheres to `Semantic Versioning <http://semver.org/>`_.
 
+2.0.1 - 2019-11-12
+------------------
+
+Changed
+~~~~~~~
+
+* PyCon UK logo replaced with UKPA logo
+* Gender specific language replace with gender neutral alternatives
+
 2.0.0 - 2017-05-19
 ------------------
 
