@@ -17,3 +17,5 @@ deploy:
   file: constitution.pdf
   on:
     repo: PyconUK/ukpa-constitution
+    branch: master
+    tags: true
