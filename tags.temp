@@ -1,0 +1,118 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+1.0.0 - 2017-04-04	CHANGELOG.rst	/^1.0.0 - 2017-04-04$/;"	s	chapter:Change Log
+2.0.0 - 2017-05-19	CHANGELOG.rst	/^2.0.0 - 2017-05-19$/;"	s	chapter:Change Log
+2.0.1 - 2019-11-12	CHANGELOG.rst	/^2.0.1 - 2019-11-12$/;"	s	chapter:Change Log
+Accounting Records	constitution/25-accounting_records.tex	/^\\section{Accounting Records}\\label{sec:accounts}$/;"	s
+Added	CHANGELOG.rst	/^Added$/;"	S	section:1.0.0 - 2017-04-04
+Admission Procedure	constitution/09-membership.tex	/^        \\subsubsection{Admission Procedure}\\label{sec:admission_procedure}$/;"	b	subsection:Membership""Admission of New Members
+Admission of New Members	constitution/09-membership.tex	/^    \\subsection{Admission of New Members}\\label{sec:admission}$/;"	u	section:Membership
+Amendment of Constitution	constitution/28-amendment_of_constitution.tex	/^\\section{Amendment of Constitution}\\label{sec:constitution}$/;"	s
+Application of Income and Property	constitution/05-application_of_income_and_property.tex	/^\\section{Application of Income and Property}$/;"	s
+Appointment of Charity Trustees	constitution/13-appointment_of_charity_trustees.tex	/^\\section{Appointment of Charity Trustees}\\label{sec:appointment}$/;"	s
+Benefits and Payments to Charity Trustees and Connected Persons	constitution/06-benefits_and_payments_to_charity_trustees_and_connected_persons.tex	/^\\section{Benefits and Payments to Charity Trustees and Connected Persons}\\label{sec:benefits}$/;"	s
+Calling General Meetings	constitution/11-general_meetings_of_members.tex	/^    \\subsection{Calling General Meetings}\\label{sec:calling_general_meetings}$/;"	u	section:General Meetings of Members
+Calling Meetings	constitution/19-meetings_and_proceedings_of_charity_trustees.tex	/^    \\subsection{Calling Meetings}$/;"	u	section:Meetings and Proceedings of Charity Trustees
+Chairing of Meetings	constitution/19-meetings_and_proceedings_of_charity_trustees.tex	/^    \\subsection{Chairing of Meetings}\\label{sec:chairing_of_meetings}$/;"	u	section:Meetings and Proceedings of Charity Trustees
+Change Log	CHANGELOG.rst	/^Change Log$/;"	c
+Changed	CHANGELOG.rst	/^Changed$/;"	S	section:2.0.0 - 2017-05-19
+Changed	CHANGELOG.rst	/^Changed$/;"	S	section:2.0.1 - 2019-11-12
+Charity Trustees	constitution/12-charity_trustees.tex	/^\\section{Charity Trustees}$/;"	s
+Conflicts of Interest and Conflicts of Loyalty	constitution/07-conflicts_of_interest_and_conflicts_of_loyalty.tex	/^\\section{Conflicts of Interest and Conflicts of Loyalty}$/;"	s
+Constitution of the UK Python Association	README.rst	/^Constitution of the UK Python Association$/;"	c
+Delegation by Charity Trustees	constitution/18-delegation_by_charity_trustees.tex	/^\\section{Delegation by Charity Trustees}\\label{sec:delegation}$/;"	s
+Disputes	constitution/27-disputes.tex	/^\\section{Disputes}\\label{sec:disputes}$/;"	s
+Duty of Members	constitution/09-membership.tex	/^    \\subsection{Duty of Members}\\label{sec:duty}$/;"	u	section:Membership
+Elected Charity Trustees	constitution/13-appointment_of_charity_trustees.tex	/^    \\subsection{Elected Charity Trustees}$/;"	u	section:Appointment of Charity Trustees
+Electronic Communication From \\shortname{}	constitution/22-use_of_electronic_communications.tex	/^    \\subsection{Electronic Communication From \\shortname{}}$/;"	u	section:Use of Electronic Communication
+Electronic Communication To \\shortname{}	constitution/22-use_of_electronic_communications.tex	/^    \\subsection{Electronic Communication To \\shortname{}}$/;"	u	section:Use of Electronic Communication
+Eligibility	constitution/09-membership.tex	/^        \\subsubsection{Eligibility}\\label{sec:eligibility}$/;"	b	subsection:Membership""Admission of New Members
+Execution of Documents	constitution/21-execution_of_documents.tex	/^\\section{Execution of Documents}\\label{sec:documents}$/;"	s
+Functions and Duties of Charity Trustees	constitution/12-charity_trustees.tex	/^    \\subsection{Functions and Duties of Charity Trustees}\\label{sec:trustee_duties}$/;"	u	section:Charity Trustees
+General	constitution/22-use_of_electronic_communications.tex	/^    \\subsection{General}$/;"	u	section:Use of Electronic Communication
+General Meetings of Members	constitution/11-general_meetings_of_members.tex	/^\\section{General Meetings of Members}\\label{sec:general_meetings}$/;"	s
+General Provisions	constitution/06-benefits_and_payments_to_charity_trustees_and_connected_persons.tex	/^    \\subsection{General Provisions}$/;"	u	section:Benefits and Payments to Charity Trustees and Connected Persons
+General Provisions	constitution/10-members_decisions.tex	/^    \\subsection{General Provisions}\\label{sec:decisions_general}$/;"	u	section:Members Decisions
+Information for New Charity Trustees	constitution/14-information_for_new_charity_trustees.tex	/^\\section{Information for New Charity Trustees}\\label{sec:new_trustees}$/;"	s
+Interpretation	constitution/30-interpretation.tex	/^\\section{Interpretation}\\label{sec:interpretation}$/;"	s
+Keeping of Registers	constitution/23-keeping_of_registers.tex	/^\\section{Keeping of Registers}\\label{sec:registers}$/;"	s
+Liability of Members in Event of Winding Up	constitution/08-liability_of_members_in_event_of_winding_up.tex	/^\\section{Liability of Members in Event of Winding Up}\\label{sec:liability}$/;"	s
+Meetings and Proceedings of Charity Trustees	constitution/19-meetings_and_proceedings_of_charity_trustees.tex	/^\\section{Meetings and Proceedings of Charity Trustees}\\label{sec:meetings}$/;"	s
+Members Decisions	constitution/10-members_decisions.tex	/^\\section{Members Decisions}\\label{sec:member_decisions}$/;"	s
+Membership	constitution/09-membership.tex	/^\\section{Membership}\\label{sec:membership}$/;"	s
+Minutes	constitution/24-minutes.tex	/^\\section{Minutes}\\label{sec:minutes}$/;"	s
+Name	constitution/01-name.tex	/^\\section{Name}\\label{sec:name}$/;"	s
+National Location of Principal Office	constitution/02-national_location_of_principal_office.tex	/^\\section{National Location of Principal Office}\\label{sec:location}$/;"	s
+Objects	constitution/03-objects.tex	/^\\section{Objects}\\label{sec:objects}$/;"	s
+Payment for Supply of Goods Only --- Controls	constitution/06-benefits_and_payments_to_charity_trustees_and_connected_persons.tex	/^    \\subsection{Payment for Supply of Goods Only --- Controls}\\label{sec:goods_controls}$/;"	u	section:Benefits and Payments to Charity Trustees and Connected Persons
+Powers	constitution/04-powers.tex	/^\\section{Powers}\\label{sec:powers}$/;"	s
+Procedure at Meetings	constitution/19-meetings_and_proceedings_of_charity_trustees.tex	/^    \\subsection{Procedure at Meetings}$/;"	u	section:Meetings and Proceedings of Charity Trustees
+Reappointment of Charity Trustees	constitution/16-reappointment_of_charity_trustees.tex	/^\\section{Reappointment of Charity Trustees}\\label{sec:reappointment}$/;"	s
+Retirement and Removal of Charity Trustees	constitution/15-retirement_and_removal_of_charity_trustees.tex	/^\\section{Retirement and Removal of Charity Trustees}\\label{sec:retirement_removal}$/;"	s
+Rules	constitution/26-rules.tex	/^\\section{Rules}\\label{sec:rules}$/;"	s
+Saving Provisions	constitution/20-saving_provisions.tex	/^\\section{Saving Provisions}\\label{sec:saving}$/;"	s
+Scope and Powers Permitting Trustees' or Connected Persons' Benefits	constitution/06-benefits_and_payments_to_charity_trustees_and_connected_persons.tex	/^    \\subsection{Scope and Powers Permitting Trustees' or Connected Persons' Benefits}\\label{se/;"	u	section:Benefits and Payments to Charity Trustees and Connected Persons
+Taking Ordinary Decisions by Vote	constitution/10-members_decisions.tex	/^    \\subsection{Taking Ordinary Decisions by Vote}\\label{sec:decisions_vote}$/;"	u	section:Members Decisions
+Taking Ordinary Decisions by Written Resolution without a General Meeting	constitution/10-members_decisions.tex	/^    \\subsection{Taking Ordinary Decisions by Written Resolution without a General Meeting}\\lab/;"	u	section:Members Decisions
+Taking of Decisions by Charity Trustees	constitution/17-taking_of_decisions_by_charity_trustees.tex	/^\\section{Taking of Decisions by Charity Trustees}\\label{sec:trustee_decisions}$/;"	s
+Termination of Membership	constitution/09-membership.tex	/^    \\subsection{Termination of Membership}\\label{sec:terminiation}$/;"	u	section:Membership
+Transfer of Membership	constitution/09-membership.tex	/^    \\subsection{Transfer of Membership}\\label{sec:transfer}$/;"	u	section:Membership
+Types of General Meetings	constitution/11-general_meetings_of_members.tex	/^    \\subsection{Types of General Meetings}\\label{sec:general_meeting_types}$/;"	u	section:General Meetings of Members
+Use of Electronic Communication	constitution/22-use_of_electronic_communications.tex	/^\\section{Use of Electronic Communication}\\label{sec:comms}$/;"	s
+Voluntary Winding Up or Dissolution	constitution/29-voluntary_winding_up_or_dissolution.tex	/^\\section{Voluntary Winding Up or Dissolution}\\label{sec:dissolution}$/;"	s
+item:connected_business_partner	constitution/30-interpretation.tex	/^    \\item\\label{item:connected_business_partner} a person carrying on business in partnership /;"	l
+item:connected_corporate_interest	constitution/30-interpretation.tex	/^        \\item\\label{item:connected_corporate_interest} the charity trustee or any connected pe/;"	l
+item:connected_institution_controller	constitution/30-interpretation.tex	/^        \\item\\label{item:connected_institution_controller} by the charity trustee or any conne/;"	l
+item:connected_partner	constitution/30-interpretation.tex	/^    \\item\\label{item:connected_partner} the spouse or civil partner of the charity trustee or /;"	l
+item:connected_relative	constitution/30-interpretation.tex	/^    \\item\\label{item:connected_relative} a child, parent, grandchild, grandparent, brother or /;"	l
+item:goods	constitution/06-benefits_and_payments_to_charity_trustees_and_connected_persons.tex	/^        \\item\\label{item:goods} Subject to clause~\\ref{sec:goods_controls} a charity trustee /;"	l
+sec:accounts	constitution/25-accounting_records.tex	/^\\section{Accounting Records}\\label{sec:accounts}$/;"	l
+sec:admission	constitution/09-membership.tex	/^    \\subsection{Admission of New Members}\\label{sec:admission}$/;"	l
+sec:admission_procedure	constitution/09-membership.tex	/^        \\subsubsection{Admission Procedure}\\label{sec:admission_procedure}$/;"	l
+sec:appointment	constitution/13-appointment_of_charity_trustees.tex	/^\\section{Appointment of Charity Trustees}\\label{sec:appointment}$/;"	l
+sec:benefits	constitution/06-benefits_and_payments_to_charity_trustees_and_connected_persons.tex	/^\\section{Benefits and Payments to Charity Trustees and Connected Persons}\\label{sec:benefits}$/;"	l
+sec:calling_general_meetings	constitution/11-general_meetings_of_members.tex	/^    \\subsection{Calling General Meetings}\\label{sec:calling_general_meetings}$/;"	l
+sec:chairing_of_meetings	constitution/19-meetings_and_proceedings_of_charity_trustees.tex	/^    \\subsection{Chairing of Meetings}\\label{sec:chairing_of_meetings}$/;"	l
+sec:comms	constitution/22-use_of_electronic_communications.tex	/^\\section{Use of Electronic Communication}\\label{sec:comms}$/;"	l
+sec:conflicts	constitution/07-conflicts_of_interest_and_conflicts_of_loyalty.tex	/^\\label{sec:conflicts}$/;"	l
+sec:constitution	constitution/28-amendment_of_constitution.tex	/^\\section{Amendment of Constitution}\\label{sec:constitution}$/;"	l
+sec:decisions_general	constitution/10-members_decisions.tex	/^    \\subsection{General Provisions}\\label{sec:decisions_general}$/;"	l
+sec:decisions_vote	constitution/10-members_decisions.tex	/^    \\subsection{Taking Ordinary Decisions by Vote}\\label{sec:decisions_vote}$/;"	l
+sec:delegation	constitution/18-delegation_by_charity_trustees.tex	/^\\section{Delegation by Charity Trustees}\\label{sec:delegation}$/;"	l
+sec:disputes	constitution/27-disputes.tex	/^\\section{Disputes}\\label{sec:disputes}$/;"	l
+sec:dissolution	constitution/29-voluntary_winding_up_or_dissolution.tex	/^\\section{Voluntary Winding Up or Dissolution}\\label{sec:dissolution}$/;"	l
+sec:documents	constitution/21-execution_of_documents.tex	/^\\section{Execution of Documents}\\label{sec:documents}$/;"	l
+sec:duty	constitution/09-membership.tex	/^    \\subsection{Duty of Members}\\label{sec:duty}$/;"	l
+sec:eligibility	constitution/09-membership.tex	/^        \\subsubsection{Eligibility}\\label{sec:eligibility}$/;"	l
+sec:general_meeting_types	constitution/11-general_meetings_of_members.tex	/^    \\subsection{Types of General Meetings}\\label{sec:general_meeting_types}$/;"	l
+sec:general_meetings	constitution/11-general_meetings_of_members.tex	/^\\section{General Meetings of Members}\\label{sec:general_meetings}$/;"	l
+sec:goods_controls	constitution/06-benefits_and_payments_to_charity_trustees_and_connected_persons.tex	/^    \\subsection{Payment for Supply of Goods Only --- Controls}\\label{sec:goods_controls}$/;"	l
+sec:income	constitution/05-application_of_income_and_property.tex	/^\\label{sec:income}$/;"	l
+sec:interpretation	constitution/30-interpretation.tex	/^\\section{Interpretation}\\label{sec:interpretation}$/;"	l
+sec:liability	constitution/08-liability_of_members_in_event_of_winding_up.tex	/^\\section{Liability of Members in Event of Winding Up}\\label{sec:liability}$/;"	l
+sec:location	constitution/02-national_location_of_principal_office.tex	/^\\section{National Location of Principal Office}\\label{sec:location}$/;"	l
+sec:meetings	constitution/19-meetings_and_proceedings_of_charity_trustees.tex	/^\\section{Meetings and Proceedings of Charity Trustees}\\label{sec:meetings}$/;"	l
+sec:member_decisions	constitution/10-members_decisions.tex	/^\\section{Members Decisions}\\label{sec:member_decisions}$/;"	l
+sec:membership	constitution/09-membership.tex	/^\\section{Membership}\\label{sec:membership}$/;"	l
+sec:minutes	constitution/24-minutes.tex	/^\\section{Minutes}\\label{sec:minutes}$/;"	l
+sec:name	constitution/01-name.tex	/^\\section{Name}\\label{sec:name}$/;"	l
+sec:new_trustees	constitution/14-information_for_new_charity_trustees.tex	/^\\section{Information for New Charity Trustees}\\label{sec:new_trustees}$/;"	l
+sec:objects	constitution/03-objects.tex	/^\\section{Objects}\\label{sec:objects}$/;"	l
+sec:permitted_benefits	constitution/06-benefits_and_payments_to_charity_trustees_and_connected_persons.tex	/^    \\subsection{Scope and Powers Permitting Trustees' or Connected Persons' Benefits}\\label{se/;"	l
+sec:powers	constitution/04-powers.tex	/^\\section{Powers}\\label{sec:powers}$/;"	l
+sec:reappointment	constitution/16-reappointment_of_charity_trustees.tex	/^\\section{Reappointment of Charity Trustees}\\label{sec:reappointment}$/;"	l
+sec:registers	constitution/23-keeping_of_registers.tex	/^\\section{Keeping of Registers}\\label{sec:registers}$/;"	l
+sec:retirement_removal	constitution/15-retirement_and_removal_of_charity_trustees.tex	/^\\section{Retirement and Removal of Charity Trustees}\\label{sec:retirement_removal}$/;"	l
+sec:rules	constitution/26-rules.tex	/^\\section{Rules}\\label{sec:rules}$/;"	l
+sec:saving	constitution/20-saving_provisions.tex	/^\\section{Saving Provisions}\\label{sec:saving}$/;"	l
+sec:terminiation	constitution/09-membership.tex	/^    \\subsection{Termination of Membership}\\label{sec:terminiation}$/;"	l
+sec:transfer	constitution/09-membership.tex	/^    \\subsection{Transfer of Membership}\\label{sec:transfer}$/;"	l
+sec:trustee_decisions	constitution/17-taking_of_decisions_by_charity_trustees.tex	/^\\section{Taking of Decisions by Charity Trustees}\\label{sec:trustee_decisions}$/;"	l
+sec:trustee_duties	constitution/12-charity_trustees.tex	/^    \\subsection{Functions and Duties of Charity Trustees}\\label{sec:trustee_duties}$/;"	l
+sec:trustees	constitution/12-charity_trustees.tex	/^\\label{sec:trustees}$/;"	l
+sec:written_resolutions	constitution/10-members_decisions.tex	/^    \\subsection{Taking Ordinary Decisions by Written Resolution without a General Meeting}\\lab/;"	l

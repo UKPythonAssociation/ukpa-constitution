@@ -14,6 +14,7 @@ deploy:
   provider: releases
   file: constitution.pdf
   skip_cleanup: true
+  edge: true
   on:
     tags: true
     repo: PyconUK/ukpa-constitution
