@@ -12,7 +12,7 @@ Changed
 ~~~~~~~
 
 * PyCon UK logo replaced with UKPA logo
-* Gender specific language replace with gender neutral alternatives
+* Gender specific language replaced with gender neutral alternatives
 
 2.0.0 - 2017-05-19
 ------------------
