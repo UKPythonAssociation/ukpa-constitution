@@ -15,7 +15,7 @@ deploy:
   api_key:
     secure: 2tUHU2dwonZe3vIUnXM0qUG88r+o0yclIIB6XzgOZ41RHCoWAoYonFvqbeBFAdzxqBtr/6syCUbDofc6cJpQbThfrhNEdroiLjLa5GZGM2dIfQUBcTQZ5py5Jz/wjbOxDAQgV+SUAwNyGSa4OfxwAmK2QrdW+u/Yvi5yVaaUinwd3tX7vHNViktZoBPK7w8uFy4bhjiPoceLk1eDUAAksrHRnLN7NkPugdCBo2q7LxMAFmK/mAwaPJCm3A8A64DYDRG8YF6C/ed67sssnTvSL5Cgi90GUqncnaaOJcA19AQhA78QfFNglPmrgt11e76pWod/7yZZtxsTKlxIMQtvwsDShgKqJBtzZWvt249499YoAQja+UzEJ2RU7UMeyYei2eD+5/MJHI0iWUg9ByIucoLRHB1eZkCNancDZMeCl9MZDRTzn5G+782+4h9y0mhvr+L2mq1T7OhB6ulShWv1S4+THr5aPlkQjqnyhrtlQ8EEqC9XeGbtMvnPVbvDrjVU5XLLm+b2jr9oAndz6Sy1+6XyyVi3YXHo4yIIMvdZySxG88U3cA+GtlZsIy5kcIm/rgU9m2+QHwvPDSFyAB4L+yPg9bcsh4paR3+B3XVF6cqLx+K561tU4IULXs9Ox/BHuzQPi3cbByHQeS4H+0/jhuConjh2LFlSEe4PgksD1Rs=
   file: constitution.pdf
+  skip_cleanup: true
   on:
     repo: PyconUK/ukpa-constitution
-    branch: master
     tags: true
