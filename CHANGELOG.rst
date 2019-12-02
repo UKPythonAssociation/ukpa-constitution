@@ -5,6 +5,13 @@ All changes to the UKPA constitution will be documented in this file.
 The format is based on `Keep a Changelog <http://keepachangelog.com/>`_
 and this project adheres to `Semantic Versioning <http://semver.org/>`_.
 
+2.1.0 - 2019-11-30
+------------------
+
+Changed
+~~~~~~~
+* Objects updated inline with resolution passed at general meeting
+
 2.0.1 - 2019-11-12
 ------------------
 
