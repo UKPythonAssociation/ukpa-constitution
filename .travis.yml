@@ -17,5 +17,5 @@ deploy:
   file: constitution.pdf
   skip_cleanup: true
   on:
-    repo: PyconUK/ukpa-constitution
+    repo: UKPythonAssociation/ukpa-constitution
     tags: true
