@@ -3,6 +3,7 @@ before_install:
 - sudo apt-get update
 - sudo apt-get install --no-install-recommends texlive-fonts-recommended texlive-latex-extra
   texlive-fonts-extra texlive-latex-recommended latex-xcolor pgf dvipng chktex rubber
+  texlive-extra-utils
 script:
 - cd constitution
 - chktex -W
@@ -10,6 +11,9 @@ script:
 - test ! -s lint.out
 before_deploy:
 - rubber -d constitution
+- pdfbook2 constitution.pdf
+- rm constitution.pdf
+- mv constitution-book.pdf constitution.pdf
 deploy:
   provider: releases
   api_key:
